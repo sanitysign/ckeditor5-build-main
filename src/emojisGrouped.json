@@ -1,0 +1,552 @@
+{
+  "Smileys & Emotion": [
+    {
+      "title": "grinning face",
+      "character": "😀"
+    },
+    {
+      "title": "winking face",
+      "character": "😉"
+    },
+    {
+      "title": "pensive face",
+      "character": "😔"
+    },
+    {
+      "title": "sleepy face",
+      "character": "😪"
+    },
+    {
+      "title": "confused face",
+      "character": "😕"
+    },
+    {
+      "title": "worried face",
+      "character": "😟"
+    },
+    {
+      "title": "slightly frowning face",
+      "character": "🙁"
+    },
+    {
+      "title": "frowning face",
+      "character": "☹️"
+    },
+    {
+      "title": "face screaming in fear",
+      "character": "😱"
+    },
+    {
+      "title": "confounded face",
+      "character": "😖"
+    },
+    {
+      "title": "persevering face",
+      "character": "😣"
+    },
+    {
+      "title": "disappointed face",
+      "character": "😞"
+    },
+    {
+      "title": "weary face",
+      "character": "😩"
+    },
+    {
+      "title": "tired face",
+      "character": "😫"
+    },
+    {
+      "title": "yawning face",
+      "character": "🥱"
+    },
+    {
+      "title": "face with steam from nose",
+      "character": "😤"
+    },
+    {
+      "title": "pouting face",
+      "character": "😡"
+    },
+    {
+      "title": "angry face",
+      "character": "😠"
+    },
+    {
+      "title": "face with symbols on mouth",
+      "character": "🤬"
+    },
+    {
+      "title": "smiling face with horns",
+      "character": "😈"
+    },
+    {
+      "title": "broken heart",
+      "character": "💔"
+    },
+    {
+      "title": "red heart",
+      "character": "❤️"
+    },
+    {
+      "title": "orange heart",
+      "character": "🧡"
+    },
+    {
+      "title": "yellow heart",
+      "character": "💛"
+    }
+  ],
+  "People & Body": [
+    {
+      "title": "waving hand",
+      "character": "👋"
+    },
+    {
+      "title": "raised back of hand",
+      "character": "🤚"
+    },
+    {
+      "title": "hand with fingers splayed",
+      "character": "🖐️"
+    },
+    {
+      "title": "raised hand",
+      "character": "✋"
+    },
+    {
+      "title": "victory hand",
+      "character": "✌️"
+    },
+    {
+      "title": "crossed fingers",
+      "character": "🤞"
+    },
+    {
+      "title": "sign of the horns",
+      "character": "🤘"
+    },
+    {
+      "title": "handshake",
+      "character": "🤝"
+    },
+    {
+      "title": "folded hands",
+      "character": "🙏"
+    },
+    {
+      "title": "flexed biceps",
+      "character": "💪"
+    },
+    {
+      "title": "baby",
+      "character": "👶"
+    },
+    {
+      "title": "child",
+      "character": "🧒"
+    },
+    {
+      "title": "person",
+      "character": "🧑"
+    },
+    {
+      "title": "person frowning",
+      "character": "🙍"
+    },
+    {
+      "title": "man frowning",
+      "character": "🙍‍♂️"
+    },
+    {
+      "title": "woman frowning",
+      "character": "🙍‍♀️"
+    },
+    {
+      "title": "person pouting",
+      "character": "🙎"
+    },
+    {
+      "title": "man pouting",
+      "character": "🙎‍♂️"
+    },
+    {
+      "title": "woman pouting",
+      "character": "🙎‍♀️"
+    },
+    {
+      "title": "person facepalming",
+      "character": "🤦"
+    },
+    {
+      "title": "man facepalming",
+      "character": "🤦‍♂️"
+    },
+    {
+      "title": "woman facepalming",
+      "character": "🤦‍♀️"
+    },
+    {
+      "title": "person shrugging",
+      "character": "🤷"
+    },
+    {
+      "title": "man shrugging",
+      "character": "🤷‍♂️"
+    },
+    {
+      "title": "woman shrugging",
+      "character": "🤷‍♀️"
+    },
+    {
+      "title": "family",
+      "character": "👪"
+    },
+    {
+      "title": "family man, boy",
+      "character": "👨‍👦"
+    },
+    {
+      "title": "family man, boy, boy",
+      "character": "👨‍👦‍👦"
+    }
+  ],
+  "Animals & Nature": [
+    {
+      "title": "monkey face",
+      "character": "🐵"
+    },
+    {
+      "title": "monkey",
+      "character": "🐒"
+    },
+    {
+      "title": "gorilla",
+      "character": "🦍"
+    },
+    {
+      "title": "orangutan",
+      "character": "🦧"
+    },
+    {
+      "title": "dog face",
+      "character": "🐶"
+    },
+    {
+      "title": "dog",
+      "character": "🐕"
+    },
+    {
+      "title": "kangaroo",
+      "character": "🦘"
+    },
+    {
+      "title": "badger",
+      "character": "🦡"
+    },
+    {
+      "title": "paw prints",
+      "character": "🐾"
+    },
+    {
+      "title": "turkey",
+      "character": "🦃"
+    },
+    {
+      "title": "chicken",
+      "character": "🐔"
+    },
+    {
+      "title": "duck",
+      "character": "🦆"
+    },
+    {
+      "title": "palm tree",
+      "character": "🌴"
+    },
+    {
+      "title": "cactus",
+      "character": "🌵"
+    },
+    {
+      "title": "herb",
+      "character": "🌿"
+    },
+    {
+      "title": "shamrock",
+      "character": "☘️"
+    },
+    {
+      "title": "four leaf clover",
+      "character": "🍀"
+    }
+  ],
+  "Food & Drink": [
+    {
+      "title": "grapes",
+      "character": "🍇"
+    },
+    {
+      "title": "melon",
+      "character": "🍈"
+    },
+    {
+      "title": "watermelon",
+      "character": "🍉"
+    },
+    {
+      "title": "tangerine",
+      "character": "🍊"
+    },
+    {
+      "title": "lemon",
+      "character": "🍋"
+    },
+    {
+      "title": "banana",
+      "character": "🍌"
+    },
+    {
+      "title": "pineapple",
+      "character": "🍍"
+    },
+    {
+      "title": "mango",
+      "character": "🥭"
+    },
+    {
+      "title": "red apple",
+      "character": "🍎"
+    },
+    {
+      "title": "green apple",
+      "character": "🍏"
+    },
+    {
+      "title": "pear",
+      "character": "🍐"
+    },
+    {
+      "title": "peach",
+      "character": "🍑"
+    },
+    {
+      "title": "cherries",
+      "character": "🍒"
+    },
+    {
+      "title": "strawberry",
+      "character": "🍓"
+    },
+    {
+      "title": "kiwi fruit",
+      "character": "🥝"
+    },
+    {
+      "title": "tomato",
+      "character": "🍅"
+    },
+    {
+      "title": "coconut",
+      "character": "🥥"
+    },
+    {
+      "title": "avocado",
+      "character": "🥑"
+    },
+    {
+      "title": "eggplant",
+      "character": "🍆"
+    },
+    {
+      "title": "potato",
+      "character": "🥔"
+    }
+  ],
+  "Travel & Places": [
+    {
+      "title": "world map",
+      "character": "🗺️"
+    },
+    {
+      "title": "map of Japan",
+      "character": "🗾"
+    },
+    {
+      "title": "compass",
+      "character": "🧭"
+    },
+    {
+      "title": "snow-capped mountain",
+      "character": "🏔️"
+    },
+    {
+      "title": "mountain",
+      "character": "⛰️"
+    },
+    {
+      "title": "rocket",
+      "character": "🚀"
+    },
+    {
+      "title": "bellhop bell",
+      "character": "🛎️"
+    },
+    {
+      "title": "first quarter moon face",
+      "character": "🌛"
+    },
+    {
+      "title": "sun",
+      "character": "☀️"
+    },
+    {
+      "title": "full moon face",
+      "character": "🌝"
+    },
+    {
+      "title": "sun with face",
+      "character": "🌞"
+    },
+    {
+      "title": "star",
+      "character": "⭐"
+    },
+    {
+      "title": "rainbow",
+      "character": "🌈"
+    }
+  ],
+  "Activities": [
+    {
+      "title": "party popper",
+      "character": "🎉"
+    },
+    {
+      "title": "confetti ball",
+      "character": "🎊"
+    },
+    {
+      "title": "tanabata tree",
+      "character": "🎋"
+    },
+    {
+      "title": "pine decoration",
+      "character": "🎍"
+    },
+    {
+      "title": "Japanese dolls",
+      "character": "🎎"
+    },
+    {
+      "title": "carp streamer",
+      "character": "🎏"
+    },
+    {
+      "title": "wind chime",
+      "character": "🎐"
+    },
+    {
+      "title": "moon viewing ceremony",
+      "character": "🎑"
+    },
+    {
+      "title": "red envelope",
+      "character": "🧧"
+    }
+  ],
+  "Objects": [
+    {
+      "title": "glasses",
+      "character": "👓"
+    },
+    {
+      "title": "bell",
+      "character": "🔔"
+    },
+    {
+      "title": "mobile phone",
+      "character": "📱"
+    },
+    {
+      "title": "mobile phone with arrow",
+      "character": "📲"
+    },
+    {
+      "title": "telephone",
+      "character": "☎️"
+    },
+    {
+      "title": "telephone receiver",
+      "character": "📞"
+    },
+    {
+      "title": "keyboard",
+      "character": "⌨️"
+    },
+    {
+      "title": "computer mouse",
+      "character": "🖱️"
+    },
+    {
+      "title": "paperclip",
+      "character": "📎"
+    },
+    {
+      "title": "linked paperclips",
+      "character": "🖇️"
+    },
+    {
+      "title": "straight ruler",
+      "character": "📏"
+    },
+    {
+      "title": "key",
+      "character": "🔑"
+    },
+    {
+      "title": "old key",
+      "character": "🗝️"
+    },
+    {
+      "title": "hammer",
+      "character": "🔨"
+    },
+    {
+      "title": "axe",
+      "character": "🪓"
+    },
+    {
+      "title": "pick",
+      "character": "⛏️"
+    },
+    {
+      "title": "magnet",
+      "character": "🧲"
+    },
+    {
+      "title": "satellite antenna",
+      "character": "📡"
+    },
+    {
+      "title": "syringe",
+      "character": "💉"
+    },
+    {
+      "title": "drop of blood",
+      "character": "🩸"
+    },
+    {
+      "title": "pill",
+      "character": "💊"
+    },
+    {
+      "title": "fire extinguisher",
+      "character": "🧯"
+    },
+    {
+      "title": "shopping cart",
+      "character": "🛒"
+    }
+  ]
+}
