@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-build-main",
+  "name": "@sanitysign/ckeditor5-build-main",
   "version": "19.0.0",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
@@ -18,7 +18,9 @@
     "collaboration",
     "collaborative",
     "real-time",
-    "framework"
+    "framework",
+    "emoji",
+    "emojis"
   ],
   "main": "./build/ckeditor.js",
   "files": [
@@ -77,7 +79,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/sanitysign/ckeditor5-build-main"
   },
   "scripts": {
     "build": "webpack --mode production",

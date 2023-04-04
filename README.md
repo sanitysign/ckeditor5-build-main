@@ -1,6 +1,8 @@
 CKEditor 5 classic editor build
 ========================================
 
+This is a fork of [@ckeditor/ckeditor5-build-classic](https://github.com/ckeditor/ckeditor5-build-classic) with preconfigured toolbar `["undo", "redo", "bold", "italic", "underline", "link", "specialCharacters"]` and custom set of emojis in `specialCharacters`
+
 <h3 align=center>⚠⚠ This repository was moved ⚠⚠</h3>
 
 <p align=center>The package was moved to the <a href="https://github.com/ckeditor/ckeditor5/tree/master/packages">main repository</a>.</p>
