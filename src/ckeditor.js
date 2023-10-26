@@ -6,21 +6,24 @@
 // The editor creator to use.
 import ClassicEditorBase from "@ckeditor/ckeditor5-editor-classic/src/classiceditor"
 
-import Essentials from "@ckeditor/ckeditor5-essentials/src/essentials"
-import Autoformat from "@ckeditor/ckeditor5-autoformat/src/autoformat"
-import Bold from "@ckeditor/ckeditor5-basic-styles/src/bold"
-import Italic from "@ckeditor/ckeditor5-basic-styles/src/italic"
-import Underline from "@ckeditor/ckeditor5-basic-styles/src/underline"
-import BlockQuote from "@ckeditor/ckeditor5-block-quote/src/blockquote"
-import Heading from "@ckeditor/ckeditor5-heading/src/heading"
-import Indent from "@ckeditor/ckeditor5-indent/src/indent"
-import Link from "@ckeditor/ckeditor5-link/src/link"
-import Paragraph from "@ckeditor/ckeditor5-paragraph/src/paragraph"
-import TextTransformation from "@ckeditor/ckeditor5-typing/src/texttransformation"
-import SpecialCharacters from "@ckeditor/ckeditor5-special-characters/src/specialcharacters"
-import SpecialCharactersArrows from "@ckeditor/ckeditor5-special-characters/src/specialcharactersarrows"
-import SpecialCharactersCurrency from "@ckeditor/ckeditor5-special-characters/src/specialcharacterscurrency"
-import SpecialCharactersMathematical from "@ckeditor/ckeditor5-special-characters/src/specialcharactersmathematical"
+import { Essentials } from "@ckeditor/ckeditor5-essentials"
+import { Alignment } from "@ckeditor/ckeditor5-alignment"
+import { Autoformat } from "@ckeditor/ckeditor5-autoformat"
+import { Bold, Italic, Underline } from "@ckeditor/ckeditor5-basic-styles"
+import { FontBackgroundColor, FontColor, FontFamily, FontSize } from "@ckeditor/ckeditor5-font"
+import { Indent } from "@ckeditor/ckeditor5-indent"
+import { BlockQuote } from "@ckeditor/ckeditor5-block-quote"
+import { Heading } from "@ckeditor/ckeditor5-heading"
+import { Link } from "@ckeditor/ckeditor5-link"
+import { List } from "@ckeditor/ckeditor5-list"
+import { Paragraph } from "@ckeditor/ckeditor5-paragraph"
+import { TextTransformation } from "@ckeditor/ckeditor5-typing"
+import {
+  SpecialCharacters,
+  SpecialCharactersArrows,
+  SpecialCharactersCurrency,
+  SpecialCharactersMathematical,
+} from "@ckeditor/ckeditor5-special-characters"
 
 // import {
 //   Emoji, EmojiActivity, EmojiFlags, EmojiFood, EmojiNature, EmojiObjects, EmojiPeople,
@@ -28,6 +31,7 @@ import SpecialCharactersMathematical from "@ckeditor/ckeditor5-special-character
 // } from '@phudak/ckeditor5-emoji/src';
 
 import emojisGrouped from "./emojisGrouped.json"
+
 export default class ClassicEditor extends ClassicEditorBase {}
 
 function SpecialCharactersEmoji(editor) {
@@ -38,18 +42,25 @@ function SpecialCharactersEmoji(editor) {
 
 // Plugins to include in the build.
 ClassicEditor.builtinPlugins = [
-  Essentials,
+  Alignment,
   Autoformat,
   Bold,
+  Essentials,
+  FontBackgroundColor,
+  FontColor,
+  FontFamily,
+  FontSize,
+  Indent,
   Italic,
+  Link,
+  List,
+  Paragraph,
+  TextTransformation,
   Underline,
   BlockQuote,
   Heading,
   Image,
   Indent,
-  Link,
-  Paragraph,
-  TextTransformation,
   SpecialCharacters,
   SpecialCharactersArrows,
   SpecialCharactersCurrency,
@@ -69,7 +80,22 @@ ClassicEditor.builtinPlugins = [
 // Editor configuration.
 ClassicEditor.defaultConfig = {
   toolbar: {
-    items: ["undo", "redo", "bold", "italic", "underline", "link", "specialCharacters"],
+    items: [
+      "undo",
+      "redo",
+      "bold",
+      "italic",
+      "underline",
+      "bulletedList",
+      "numberedList",
+      "alignment",
+      "fontColor",
+      "fontBackgroundColor",
+      "fontFamily",
+      "fontSize",
+      "link",
+      "specialCharacters",
+    ],
   },
 
   // This value must be kept in sync with the language defined in webpack.config.js.
